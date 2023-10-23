@@ -5,12 +5,12 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/taniyow/taniyow-portfolio-react/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!. View demo at [https://http://vercel.com//](https://taniyow.vercel.app)
+A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!. View demo at [[https://http://vercel.com//](https://chintan-w-portfolio.netlify.app/)](https://chintan-w-portfolio.netlify.app/)
 
 -   built using [React](https://reactjs.org)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 -   styled with [Material-UI](https://material-ui.com)
--   deployed on vercel [Vercel](https://vercel.com)
+-   deployed on netlify 
 
 Special thanks to [Jo Lienhoop](https://github.com/JoHoop), and [Cody Bennett](https://github.com/CodyJasonBennett) for the inspiration.
 
@@ -19,10 +19,6 @@ Special thanks to [Jo Lienhoop](https://github.com/JoHoop), and [Cody Bennett](h
 -   All of the personal information is populated from the resume.json file following the [JSON Resume](https://jsonresume.org) standard, a community driven open source initiative to create a JSON based standard for resumes. Discover the official schema [here](https://jsonresume.org/schema).
 -   The toggle/switch for the dark mode syncs its state to the local storage.
 
-#### Coming soon
-
--   Two beautiful resume page templates generated based on the data in the resume.json file -- a modern approach of the traditional printed CV.
--   Rich Google search results using structured data with [json-ld.org/](https://json-ld.org).
 
 ## Customization
 
