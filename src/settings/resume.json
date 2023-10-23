@@ -1,0 +1,137 @@
+{
+    "basics": {
+        "name": "Chintan Bhensdadiya",
+        "label": "Full Stack Developer",
+        "email": "bchintan99@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Web",
+        "job2": "Developer",    
+        "description": "Hello! I'm Chintan! Your app development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "",
+        "keywords": "personal,website,portfolio,template,kit,chintan,webdev,web,developer,canada,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "https://chintan-w-portfolio.netlify.app/",
+        "location": {
+            "address": "1505 Carlton Street",
+            "postalCode": "M5A3W7",
+            "city": "Toronto",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "??"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "bchintan99",
+                "url": "https://gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Chintan",
+                "url": "https://linkedin.com/in/chintan-bhensdadiya-2607b81b3",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "Chintan-W",
+                "url": "https://github.com/Chintan-W",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "Chintan-W",
+                "url": "https://gitlab.com/Chintan-W",
+                "x_icon": "fab fa-gitlab"
+            },
+            {
+                "network": "Telegram",
+                "username": "",
+                "url": "",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "urmumsboyfrnd",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["Computer Engineering", "Hardware+Software"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
